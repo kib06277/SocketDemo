@@ -1,4 +1,4 @@
 # SocketDemo
-Socket实现一个简单的聊天室功能
-具体 实现的步骤请参考我的博客
+Socket 實現一個簡單的聊天功能
+具體實現步驟參考
 http://blog.csdn.net/wlj644920158/article/details/75044208
